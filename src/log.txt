@@ -1,0 +1,7 @@
+INFO: User login
+INFO: User opened app
+ERROR: Database connection failed
+WARNING: Low memory
+ERROR: Null pointer exception
+INFO: Action completed
+WARNING: Disk space low
